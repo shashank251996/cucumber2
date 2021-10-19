@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<extentreports>
+<configuration>
+<theme>standard</theme>
+<encoding>UTF-8</encoding>
+<protocol>https</protocol>
+<documentTitle>Project Extent Report</documentTitle>
+<reportName>Practice Project - Cucumber Report</reportName>
+<dateFormat>yyyy-MM-dd</dateFormat>
+<timeFormat>HH:mm:ss</timeFormat>
+ <!-- custom javascript -->
+    <scripts>
+      <![CDATA[
+        $(document).ready(function() {
+        
+        });
+      ]]>
+    </scripts>
+    
+    <!-- custom styles -->
+    <styles>
+      <![CDATA[
+        
+      ]]>
+    </styles>
+</configuration>
+</extentreports>
+
+
